@@ -1,0 +1,27 @@
+OOP:(Object Oriented Programming) :-
+---------------------------------
+
+1) Class: Class is a Blueprint which consists of attributes and methods
+   -----
+   Attributes Types:-
+   ----------------
+   -->Class Attribute
+   -->Instance Attribute
+
+   Method Types:-
+   ------------
+   -->Class Method
+   -->Instance Method
+   -->Static Method   ---> It can act like a helper 
+2) Object: Object is an instance of a class(who are using)
+   ------
+3) Encapsulation: The process of wrapping the data and provides more security
+   -------------
+4) Inheritance : Acquiring the properties from parent class to child class (Eg:-Instagram features,....)
+   ------------
+5) Abstraction : Hiding the complexity (Eg:-phone pe, flipkart, ....)
+   -----------
+6) polymorphism: Same action in different forms 
+   ------------
+
+
